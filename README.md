@@ -1,3 +1,5 @@
+this fork works with the particle photon :)
+
 ILI9341 SPI LCD Library
 ====================== 
 
